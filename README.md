@@ -1,4 +1,4 @@
-# Docker Deployment Using Flask/Docker
+# Model Deployment Using Flask/Docker
 
 I started this project to apply what I taught myself online about Flask and Docker by deploying a scikit-learn machine learning model. There is a lot to improve but this project is a work in progress so it will be updated. 
 This project consists of three parts.
